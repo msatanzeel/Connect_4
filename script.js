@@ -1,6 +1,6 @@
 var player1=prompt("Enter the name of the player one,youl'll be red");
 var player2=prompt("Enter the name of the player two,you'll be yellow");
-var player1Color='rgb(201, 0, 0)';
+var player1Color='red';
 var player2Color='rgb(247, 247, 0)';
 var defColor='rgb(0, 0, 0)';
 
